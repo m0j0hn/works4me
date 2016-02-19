@@ -46,6 +46,7 @@ requires that we use "vagrant destroy" to remove the configured VM.
 
 TODO:
 -----
+
 1. Clean up the README.md file! :)
 1. Check if "vagrant destroy" is really necessary to reconfigure VM?
 1. Improve help info.
@@ -54,4 +55,5 @@ TODO:
 1. Tests
 
 ***
+
 -- m0j0hn, 2016-02-19
